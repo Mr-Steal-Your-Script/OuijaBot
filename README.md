@@ -15,7 +15,7 @@
 
 Clone the repo and change into the bot directory:
 
-    git clone https://github.com/titletrack/OuijaBot/ && cd OuijaBot
+    git clone https://github.com/actallysupportstechnology/OuijaBot/ && cd OuijaBot
 
 #### Edit main.py to fit your bot's details
 * In line 5, replace "USER_AGENT" with the bot's description
